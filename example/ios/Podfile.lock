@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - sample_plugin_flutter (0.0.1):
+    - Flutter
+    - SwiftDate
+  - SwiftDate (6.3.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - sample_plugin_flutter (from `.symlinks/plugins/sample_plugin_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - SwiftDate
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  sample_plugin_flutter:
+    :path: ".symlinks/plugins/sample_plugin_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: ce0a3ffa1de96d1a89ca0ac26fca7ea18a749ef4
+  sample_plugin_flutter: e95389ccdae5930ba7ce58255fae913151948a6c
+  SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
